@@ -1,0 +1,19 @@
+body{
+        background-color: aquamarine;
+}
+.abc
+{
+        border-style: solid;
+        border-color: rgb(12, 210, 245);
+        border-radius: 5cm;
+        border-width: 2mm;
+        margin: auto;
+        margin-top: 7cm;
+        width: 10%;
+        height: 20%;
+        padding-left: 18mm;
+        padding-right: 2mm;
+        padding-top: 2mm;
+        padding-bottom: 2mm;
+        
+}

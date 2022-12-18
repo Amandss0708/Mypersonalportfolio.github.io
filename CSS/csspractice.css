@@ -1,0 +1,81 @@
+body {
+    background-image: url("https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Urban-cruiser/7802/1600923433627/front-left-side-47.jpg?tr=w-456");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.class {
+    background-color: rgb(249, 248, 248);
+    color: rgb(4, 4, 12);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-variant: small-caps;
+
+
+}
+
+.sign {
+
+    border: 5px solid #a3a3a6;
+    /* padding: 0px;
+    margin: 0px; */
+    width: 11.5vw;
+    height: 11.5vw;
+    margin-top: 2cm;
+    border-radius: 2cm;
+    position: relative;
+    left: 28cm;
+    position: sticky;
+    transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out; 
+
+}
+
+.contents {
+    color: blue;
+    background-color: aliceblue;
+    width: 4cm;
+    text-decoration: underline;
+}
+
+.navigation {
+    display: flex;
+    /* background-color: rgb(71, 35, 216); */
+    
+    justify-content: space-evenly;
+
+
+
+}
+
+.nav {
+    /* background-color: red;  */
+    margin: 5px;
+    width: 2cm;
+    
+
+}
+
+a:hover {
+
+    background-color: white;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: red;
+}
+
+a:link {
+    color: rgb(12, 12, 12);
+}
+
+.list 
+{
+    position: relative;
+    bottom: 5cm;
+}
+

@@ -1,0 +1,94 @@
+
+.firstdiv
+{
+        border-style: solid;
+        border-color: green;
+        border-width: 1mm;
+        border-radius: 1cm;
+        margin: auto;
+        margin-top: 5cm;
+        margin-bottom: 1cm;
+        padding-bottom: 1mm;
+        padding-top: 1mm;
+        padding-left: 1mm;
+        padding-right: 1mm;
+        color: blue;
+        text-align: center;
+        word-spacing: 2mm;
+        text-shadow: 1cm;
+        direction: ltr;
+        font-size: 1.9vw; 
+        /* size of text automatically adjusts according to window size */
+        
+
+}
+.seconddiv
+{
+        border-style: solid;
+        border-color: rgb(40, 12, 130);
+        border-width: 2mm;
+        border-radius: 1cm;
+        margin: auto;
+        margin-top: 1cm;
+        margin-bottom: 1cm;
+        padding-bottom: 1mm;
+        padding-top: 1mm;
+        padding-left: 1mm;
+        padding-right: 1mm;
+        text-decoration: underline;
+        text-transform: uppercase;
+        font-family: cursive;
+        font-style: italic;
+        font-size: medium;
+        font-size: 1.9vw; 
+
+}
+.thirddiv
+{
+        border-style: solid;
+        border-color: rgb(188, 10, 22);
+        border-width: 3mm;
+        border-radius: 1cm;
+        margin: auto;
+        margin-top: 1cm;
+        margin-bottom: 1cm;
+        padding-bottom: 1mm;
+        padding-top: 1mm;
+        padding-left: 1mm;
+        padding-right: 1mm;
+        outline-style: dashed;
+        outline-color: violet;
+        outline-width: 1mm;
+        letter-spacing: 3px;
+        font-size: 1.9vw; 
+
+}
+/* for anchor tag */
+a 
+{
+        text-decoration: none;
+        text-transform: uppercase;
+}
+a:hover
+{
+        background-color: tomato;
+        color: black;
+        font-size: large;
+}
+.fourthdiv
+{
+        background-color: black;
+        
+        
+        
+}
+
+.abc
+{
+       display: inline-table;
+       /* because list is a block element, so, we use display: inline; to arrange list horizonatally */
+       /* block elements don't come in same line */
+       font-size: 1.9vw; 
+       color: aliceblue;
+       
+}
